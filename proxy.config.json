@@ -1,0 +1,6 @@
+{
+  "/hub/*": {
+    "target": "http://localhost:8080/movie-hub",
+    "secure": false
+  }
+}
